@@ -178,5 +178,5 @@ This project is distributed under the MIT License. See the `LICENSE` file for de
 
 ---
 
-*Inspired by the SQL Data Warehouse project by Baraa Khatib Salkini (Data With Baraa).*
+
 
